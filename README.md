@@ -28,7 +28,7 @@ All frameworks are tested on the same task:
 |---|---:|---:|---:|---:|
 | LangGraph | 12.19 | 864 | 187 | 9.0 / 10 |
 | AutoGen | 8.66 | 444 | 170 | 8.5 / 10 |
-| CrewAI | TBD | 610 | TBD | 9.5 / 10 |
+| CrewAI | 9.60 | 610 | 173 | 9.5 / 10 |
 | MetaGPT Single-Agent | 4.55 | 545 | 134 | 9.5 / 10 |
 | MetaGPT Multi-Agent | TBD | 248 | 259 | 9.5 / 10 |
 
