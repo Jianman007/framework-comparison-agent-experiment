@@ -30,7 +30,7 @@ All frameworks are tested on the same task:
 | AutoGen | 8.66 | 444 | 170 | 8.5 / 10 |
 | CrewAI | 9.60 | 610 | 173 | 9.5 / 10 |
 | MetaGPT Single-Agent | 4.55 | 545 | 134 | 9.5 / 10 |
-| MetaGPT Multi-Agent | TBD | 248 | 259 | 9.5 / 10 |
+| MetaGPT Multi-Agent | 8.62 | 248 | 259 | 9.5 / 10 |
 
 > **Observation:**  
 > - **LangGraph** produced a highly structured report, but consumed the most tokens.  
