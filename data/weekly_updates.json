@@ -1,0 +1,74 @@
+[
+  {
+    "day": "Monday",
+    "member": "Alice",
+    "role": "Data Analyst",
+    "update": "Completed data cleaning for 12,450 customer feedback records and removed 318 duplicate records."
+  },
+  {
+    "day": "Monday",
+    "member": "Bob",
+    "role": "Frontend Developer",
+    "update": "Finished version 1 of the analytics dashboard, including a sales trend chart and a regional filter."
+  },
+  {
+    "day": "Tuesday",
+    "member": "Charlie",
+    "role": "Backend Engineer",
+    "update": "Found an API timeout problem in the staging environment. 7 out of 50 test requests took longer than 5 seconds. The issue is not resolved yet."
+  },
+  {
+    "day": "Tuesday",
+    "member": "Alice",
+    "role": "Data Analyst",
+    "update": "Completed four of the six planned user interviews. Two interviews were postponed because the participants were unavailable."
+  },
+  {
+    "day": "Wednesday",
+    "member": "Bob",
+    "role": "Frontend Developer",
+    "update": "Fixed the authentication bug that prevented some users from logging in after resetting their passwords."
+  },
+  {
+    "day": "Wednesday",
+    "member": "Charlie",
+    "role": "Backend Engineer",
+    "update": "After feature engineering, the validation F1 score improved from 0.78 to 0.83."
+  },
+  {
+    "day": "Thursday",
+    "member": "Alice",
+    "role": "Data Analyst",
+    "update": "The latest application version was successfully deployed to the internal demo server."
+  },
+  {
+    "day": "Thursday",
+    "member": "Bob",
+    "role": "Frontend Developer",
+    "update": "The licence review for an external dataset is still pending and currently blocks its use in the next modelling experiment."
+  },
+  {
+    "day": "Friday",
+    "member": "Charlie",
+    "role": "Backend Engineer",
+    "update": "Next week the team plans to investigate and optimise the API timeout problem."
+  },
+  {
+    "day": "Friday",
+    "member": "Alice",
+    "role": "Data Analyst",
+    "update": "The two postponed user interviews are planned to be completed next week."
+  },
+  {
+    "day": "Friday",
+    "member": "Bob",
+    "role": "Frontend Developer",
+    "update": "A CSV export function is planned for the next dashboard iteration."
+  },
+  {
+    "day": "Friday",
+    "member": "Bob",
+    "role": "Frontend Developer",
+    "update": "If the dataset licence is not approved by Wednesday next week, the modelling schedule may be delayed by approximately two days."
+  }
+]

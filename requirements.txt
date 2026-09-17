@@ -1,0 +1,15 @@
+python-dotenv
+
+langgraph
+langchain
+langchain-openai
+
+autogen-agentchat
+autogen-ext[openai]
+
+crewai
+
+metagpt
+
+openai
+tiktoken
